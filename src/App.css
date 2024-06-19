@@ -41,12 +41,12 @@
   margin-left:225px;
 }
 
-/* Increase checkbox size */
+
 input[type="checkbox"] {
   transform: scale(1.5); 
   background-color: #CDCDCD;
+  border-radius: 6px;
 }
-
 
 
 .done-button {
