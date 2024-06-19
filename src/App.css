@@ -62,9 +62,7 @@ input[type="checkbox"] {
   font-family: Montserrat;
   font-weight: 400;
   font-size: 14px;
+  gap: 10px;
 }
 
-.done-button:hover {
-  background-color: darkorange;
-}
 
