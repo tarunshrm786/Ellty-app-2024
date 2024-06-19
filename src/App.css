@@ -58,6 +58,9 @@ input[type="checkbox"] {
   width: 100%;
   text-align: center;
   margin-top: 10px;
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 14px;
 }
 
 .done-button:hover {
