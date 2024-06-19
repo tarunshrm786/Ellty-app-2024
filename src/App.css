@@ -28,6 +28,10 @@
 .row p {
   margin: 0;
   flex: 1;
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18.2px;
 }
 
 .row input {
